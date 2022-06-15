@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Paulo</h1>
+<h1 align="center">Hi 👋, I'm Ricardo Paulo.</h1>
 <h3 align="center">A passionate frontend developer from Portugal!!!</h3>
 
 - 🌱 I’m currently learning **React and Ruby On Rails**
