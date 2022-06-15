@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Ruby On Rails**
 
-- 👯 I’m looking to collaborate on **Fashion Projects**
+- 👯 I’m looking to collaborate on **interesting projects (fashion is a plus)**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/ricardodapaulo](https://troopl.com/ricardodapaulo)
 
